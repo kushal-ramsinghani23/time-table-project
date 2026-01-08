@@ -6,7 +6,7 @@
 
 The **Automated Timetable Management System** is a desktop-based software application designed to automatically extract, store, and present academic timetable information from a **centralized department timetable** (PDF format).
 
-The system eliminates manual timetable handling and provides **accurate, fast, and reliable retrieval** of:
+The system eliminates manual timetable handling and provides **accurate, fast, and reliable retrieval** of
 
 * Individual **Faculty Timetable**
 * Individual **Division / Class Timetable**
